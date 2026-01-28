@@ -21,3 +21,8 @@ KoBERT 기반 자연어 처리 모델을 활용하여 자기소개서 문장의 
 - AI 모델과 웹 서비스 통합 구조 이해  
 
 ## 📸 화면 예시
+<img width="271" height="145" alt="image" src="https://github.com/user-attachments/assets/096dbc8a-ab9b-455e-95e6-e0db12003d69" />
+<img width="278" height="156" alt="image" src="https://github.com/user-attachments/assets/935b2a88-a35c-4e75-acfa-847a3e1e7c91" />
+<img width="141" height="85" alt="image" src="https://github.com/user-attachments/assets/84423672-85ab-4d8d-aaa8-e660a6e879fd" />
+<img width="195" height="100" alt="image" src="https://github.com/user-attachments/assets/d8ef34d9-be47-4dd7-95ed-3c82569282cf" />
+<img width="146" height="135" alt="image" src="https://github.com/user-attachments/assets/25741354-2fef-457c-bc69-ad78a1dc609e" />
